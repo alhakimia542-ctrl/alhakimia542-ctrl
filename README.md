@@ -1,25 +1,147 @@
-# I'm Ahmed — Empowering Hardware with AI
+# Ahmed Al-Hakimi
 
-I am an **Artificial Intelligence Engineering** student at **Community College**, dedicated to bridging the gap between sophisticated algorithms and physical hardware. While my academic focus is firmly rooted in AI, my practical passion lies in applying intelligent solutions to embedded systems and robotics. Whether it's a robotic arm executing a precise move or a neural network detecting a face, I love the challenge of making machines "smarter" and more interactive through code.
+AI Engineering student focused on building intelligent systems that connect software with real-world hardware.
+Most of my work combines **Computer Vision**, **Embedded Systems**, and **Deep Learning** to create practical AI applications instead of just training models in notebooks.
 
-## Featured Projects & Lab Work:
+I enjoy working on projects where AI interacts with cameras, sensors, motors, or mobile apps in real time.
 
-* **SafeDrive AI:** A real-time drowsiness detection system using **Flutter** and **ML Kit**. I engineered a custom signal-processing logic to filter out natural blinks, triggering alerts only after 15 consecutive "sleep" frames.
-* **Precision MeArm:** Assembled and programmed a 4-DOF robotic arm. I implemented **Bluetooth** control to orchestrate 4 servo motors for smooth, synchronized movements, integrating intelligent path calculation.
-* **Smart Navigation:** Developed obstacle-avoidance systems using **Ultrasonic sensors** and **HC-05** modules, focusing on real-time data processing for autonomous DC motor control.
-* **Computer Vision in Health:** Working on "**DentalApp**", using **FastAPI** and deep learning models to identify dental caries from image datasets.
+---
 
-## Technical Toolbox:
+# Featured Projects
 
-* **Programming:** **Python** (AI/ML), **Dart** (Flutter), **C++** (Arduino/Embedded).
-* **AI Frameworks:** **TensorFlow**, **NLP** (BERT & AraBERT), and **Time-series Analysis** (RNN/LSTM).
-* **Core AI Engineering:** Deeply interested in the mathematics behind Clustering (K-Means/DBSCAN) and Anomaly Detection.
-* **Hardware Integration:** **Arduino Uno**, Servo & DC Motors, Bluetooth Integration.
+## SafeDrive AI — Driver Drowsiness Detection
 
-## Current Focus:
+A real-time driver monitoring system built with **Flutter** and **Google ML Kit**.
 
-I'm currently diving deep into **Embedded Systems for AI**, exploring how to run lightweight machine learning models on microcontrollers to create truly autonomous hardware.
+The system detects eye closure and filters normal blinking behavior using custom frame-analysis logic before triggering alerts. The goal was to reduce false alarms and make detection more reliable during live driving conditions.
 
-***
+### Technologies
 
-*I’m always open to discussing Robotics, Flutter development, or Computer Vision. Let's build something that moves!*
+* Flutter
+* Dart
+* Google ML Kit
+* Computer Vision
+
+### Demo & Project Links
+
+* YouTube Demo:
+  [Watch Demo on YouTube](https://youtu.be/uoXS8Cu0Rs4?utm_source=chatgpt.com)
+
+* LinkedIn Post:
+  [View Project on LinkedIn](https://www.linkedin.com/posts/%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85%D9%8A-833380344_computervision-flutter-artificialintelligence-ugcPost-7463650859915046912-4-Cj?utm_source=chatgpt.com)
+
+---
+
+## Kidney Disease Classification using Deep Learning
+
+Medical imaging project for classifying kidney CT scan images into:
+
+* Normal
+* Stone
+* Cyst
+* Tumor
+
+Built using **PyTorch** and **EfficientNet-B0** with a full training and evaluation pipeline.
+
+### What I Worked On
+
+* Dataset preprocessing and validation
+* Duplicate image checking using perceptual hashing
+* Patient-level leakage detection
+* Training pipeline with PyTorch
+* Model evaluation and classification reports
+* Image inference system for prediction
+
+### Technologies
+
+* Python
+* PyTorch
+* OpenCV
+* EfficientNet
+* Medical Image Classification
+
+---
+
+## Precision MeArm — Robotic Arm Control
+
+Built and programmed a 4-DOF robotic arm using servo motors and Bluetooth communication.
+
+The project focused on smooth motion control, real-time command handling, and synchronized servo movement through Arduino-based control systems.
+
+### Technologies
+
+* Arduino Uno
+* C++
+* Servo Motors
+* HC-05 Bluetooth Module
+
+---
+
+## Smart Navigation System
+
+Obstacle-avoidance system using ultrasonic sensors for autonomous navigation.
+
+The system processes sensor data in real time to control DC motors and avoid nearby obstacles.
+
+### Technologies
+
+* Arduino
+* Ultrasonic Sensors
+* DC Motors
+* Embedded Systems
+
+---
+
+# Technical Skills
+
+## Programming Languages
+
+* Python
+* Dart
+* C++
+
+## AI & Deep Learning
+
+* PyTorch
+* TensorFlow
+* CNNs
+* Computer Vision
+* NLP (BERT / AraBERT)
+
+## Mobile Development
+
+* Flutter
+* Firebase
+* REST APIs
+
+## Embedded Systems
+
+* Arduino Uno
+* Bluetooth Modules
+* Servo Motors
+* Sensors & Motor Control
+
+---
+
+# Current Focus
+
+Currently exploring:
+
+* Medical AI systems
+* Lightweight AI models for embedded devices
+* Real-time computer vision applications
+* AI integration with robotics and hardware systems
+
+---
+
+# Connect With Me
+
+* LinkedIn:
+  [Ahmed Al-Hakimi on LinkedIn](https://www.linkedin.com/in/احمد-الحكيمي-833380344?utm_source=chatgpt.com)
+
+* YouTube Demo Channel / Project Videos:
+  [SafeDrive AI Demo](https://youtu.be/uoXS8Cu0Rs4?utm_source=chatgpt.com)
+
+---
+
+> I like building systems that do more than display predictions — systems that can actually interact with the real world.
