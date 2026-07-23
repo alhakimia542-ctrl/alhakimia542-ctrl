@@ -9,26 +9,24 @@ I enjoy working on projects where AI interacts with cameras, sensors, motors, or
 
 # Featured Projects
 
-## SafeDrive AI — Driver Drowsiness Detection
+### SafeDrive AI — Driver Drowsiness Detection
 
-A real-time driver monitoring system built with **Flutter** and **Google ML Kit**.
+A real-time driver monitoring system designed to continuously track and analyze a driver's facial features and expressions to detect early signs of fatigue. 
 
-The system detects eye closure and filters normal blinking behavior using custom frame-analysis logic before triggering alerts. The goal was to reduce false alarms and make detection more reliable during live driving conditions.
+Currently built as an initial prototype using **Flutter** and **Google ML Kit**, the system actively monitors eye states. It utilizes custom frame-analysis logic to accurately distinguish between normal, quick blinking and dangerous, prolonged eye closure before triggering immediate safety alerts. The goal is to reduce false alarms and ensure highly reliable detection during live driving.
 
-### Technologies
+**🚀 Future Hardware Integration (Roadmap)**
+While the current version is a mobile application, it serves primarily as a proof-of-concept. The ultimate goal is to evolve this project into a fully integrated embedded hardware system:
+* **Embedded Deployment:** Transitioning the system to run on a **Raspberry Pi 5** equipped with a dedicated camera module.
+* **Edge AI:** Deploying and optimizing the facial recognition and drowsiness models directly onto the microcontroller for offline, low-latency processing without internet reliance.
+* **Physical Control:** Interfacing the hardware directly with a vehicle's systems to trigger physical alarms and safety mechanisms.
 
-* Flutter
-* Dart
-* Google ML Kit
-* Computer Vision
+**🛠 Technologies**
+* Flutter | Dart | Google ML Kit | Computer Vision
 
-### Demo & Project Links
-
-* YouTube Demo:
-  [Watch Demo on YouTube](https://youtu.be/uoXS8Cu0Rs4?utm_source=chatgpt.com)
-
-* LinkedIn Post:
-  [View Project on LinkedIn](https://www.linkedin.com/posts/%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85%D9%8A-833380344_computervision-flutter-artificialintelligence-ugcPost-7463650859915046912-4-Cj?utm_source=chatgpt.com)
+**🔗 Demo & Project Links**
+* [▶️ Watch Demo on YouTube](https://youtu.be/uoXS8Cu0Rs4?si=Sy3Iodhz09jSwftr)
+* [💼 View Project Insights on LinkedIn](https://www.linkedin.com/posts/%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85%D9%8A-833380344_computervision-flutter-artificialintelligence-ugcPost-7463650859915046912-4-Cj/?utm_source=chatgpt.com)
 
 ---
 
