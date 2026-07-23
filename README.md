@@ -60,18 +60,23 @@ Built using **PyTorch** and **EfficientNet-B0** with a full training and evaluat
 
 ---
 
-## Precision MeArm — Robotic Arm Control
+### AI-Controlled Mobile Robotic Arm (MeArm & Rover)
 
-Built and programmed a 4-DOF robotic arm using servo motors and Bluetooth communication.
+A comprehensive cyber-physical system combining a **4-DOF robotic arm** (driven by 4 servo motors for base, shoulder, elbow, and gripper articulation) mounted on a **differential-drive mobile base** (powered by 2 DC motors).
 
-The project focused on smooth motion control, real-time command handling, and synchronized servo movement through Arduino-based control systems.
+The project demonstrates a hybrid control approach: utilizing real-time Computer Vision (CV) via Google MediaPipe and Flutter to translate human hand gestures into wireless movement commands. These commands are transmitted via Bluetooth to an Arduino Uno, enabling seamless and synchronized control of both the rover's autonomous-like navigation and the robotic arm's precise manipulation.
 
-### Technologies
-
-* Arduino Uno
-* C++
-* Servo Motors
+**🛠 Technologies**
+* Arduino Uno | C++
+* Flutter | Google MediaPipe (Hand Landmarker)
+* Servo Motors (4-DOF) | DC Motors (Mobile Base)
 * HC-05 Bluetooth Module
+
+**🔗 Demo & Project Links**
+* [💻 View Source Code on GitHub](https://github.com/alhakimia542-ctrl/robot_hand_controller)
+* [▶️ Watch Demo on YouTube](https://youtu.be/E1I6UvdjfzE?si=I9Z_uAkKg25LIe9x)
+* [💼 View Project Insights on LinkedIn](https://www.linkedin.com/posts/%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85%D9%8A-833380344_i-am-proud-to-share-the-completion-of-my-ugcPost-7472389333321297921-jyft)
+
 
 ---
 
