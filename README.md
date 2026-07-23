@@ -166,7 +166,7 @@ Currently exploring:
   [Ahmed Al-Hakimi on LinkedIn](https://www.linkedin.com/in/احمد-الحكيمي-833380344?utm_source=chatgpt.com)
 
 * YouTube Demo Channel / Project Videos:
-  [SafeDrive AI Demo](https://youtu.be/uoXS8Cu0Rs4?utm_source=chatgpt.com)
+  [My YouTube channel Demo](https://youtube.com/@ahmedalhakimi-k8w?si=rDZ8cfMpmDvjtGZs)
 
 ---
 
