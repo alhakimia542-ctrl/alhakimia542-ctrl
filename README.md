@@ -162,6 +162,8 @@ Currently exploring:
 
 # Connect With Me
 
+* **Email:** [alhakimia542@gmail.com](mailto:alhakimia542@gmail.com)
+* * **Phone / WhatsApp:** +967 771339198
 * LinkedIn:
   [Ahmed Al-Hakimi on LinkedIn](https://www.linkedin.com/in/احمد-الحكيمي-833380344?utm_source=chatgpt.com)
 
