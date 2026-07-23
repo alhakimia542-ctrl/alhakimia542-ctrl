@@ -30,6 +30,29 @@ While the current version is a mobile application, it serves primarily as a proo
 
 ---
 
+
+### Dental AI — Full-Stack Smart Dental Screening
+
+An end-to-end, cloud-integrated artificial intelligence solution engineered to automatically detect and localize dental anomalies, such as caries, from X-ray scans in real time. 
+
+This project demonstrates a complete **Full-Stack AI architecture** bridging deep learning with mobile deployment:
+* **AI Engine:** A custom-trained **YOLOv8** object detection model optimized for high-precision medical image analysis.
+* **Cloud Backend:** A robust, containerized **FastAPI** inference server deployed on **Hugging Face Spaces** to handle concurrent image processing.
+* **Mobile Frontend:** A cross-platform **Flutter** application that communicates with the backend via RESTful APIs, delivering immediate diagnostic results, bounding box visualizations, and confidence scores directly to the user's device.
+
+**🛠 Technologies**
+* **Deep Learning:** YOLOv8 | Python | Ultralytics
+* **Backend & Cloud:** FastAPI | Docker | Hugging Face Spaces
+* **Mobile & Integration:** Flutter | Dart | REST API
+
+**🔗 Demo & Project Links**
+* [💻 View Source Code on GitHub](https://github.com/alhakimia542-ctrl/Dental-Online-App)
+* [▶️ Watch App Demo on Instagram](https://www.instagram.com/reel/DZQLiyqN870/?igsh=ZGRkdml6YmtlN2ky)
+
+---
+
+
+
 ## Kidney Disease Classification using Deep Learning
 
 Medical imaging project for classifying kidney CT scan images into:
